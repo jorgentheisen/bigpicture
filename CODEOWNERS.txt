@@ -4,4 +4,4 @@
 
 # Any change inside the `/Documents` directory
 # will require approval from anyone in the organizational team docsteam
-/Documents @fluentbytes/docsteam
+/Documents @jorgentheisen
