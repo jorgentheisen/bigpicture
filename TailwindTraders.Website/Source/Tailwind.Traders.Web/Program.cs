@@ -7,7 +7,7 @@ using Microsoft.AspNetCore;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.Logging;
-// Just to kick actions workflow on PR 
+
 namespace Tailwind.Traders.Web
 {
     public class Program
