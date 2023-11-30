@@ -4,6 +4,7 @@ on:
   pull_request:
     branches: [ main ]
     paths:
+    # Only for the actual website (e.g. not docs)
       - 'TailwindTraders.Website/**'
 jobs:
   CI:
